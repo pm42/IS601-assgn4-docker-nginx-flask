@@ -1,5 +1,5 @@
-# Docker Nginx Flask Assignment
+# My First Web Page Assignment
 
-## Screenshot of Running Program
+## Screenshot of my web page
 
-![Running Program](screenshots/running-program.png)
+![first_web_page](screenshots/first-webpage.png)
