@@ -1,5 +1,9 @@
-# My First Web Page Assignment
+# Bootstrap Web Page Assignment:
 
-## Screenshot of my web page
+## Index : Z-Layout
 
-![first_web_page](screenshots/first-webpage.png)
+![Z_Layout](screenshots/Z-Layout.png)
+
+## About : F-Layout
+
+![F_Layout](screenshots/F-Layout.png)
